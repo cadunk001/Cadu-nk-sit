@@ -68,7 +68,7 @@
                             />
                         </div>
                         <div className="overflow-hidden rounded-lg neon-border">
-                            <img
+                            <img=https://imgur.com/a/MO8Ui8k
                                 src="URL_FOTO_2_AQUI"
                                 alt="CADU NK em camiseta preta"
                                 className="w-full h-64 object-cover gallery-img"
